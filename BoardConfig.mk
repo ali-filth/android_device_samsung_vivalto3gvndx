@@ -107,7 +107,3 @@ TARGET_RECOVERY_FSTAB 				:= device/samsung/vivalto3gvndx/etc/vivalto3gvndx.fsta
 TW_HAS_DOWNLOAD_MODE				:= true
 DEVICE_RESOLUTION 				:= 480x800
 BOARD_USE_CUSTOM_RECOVERY_FONT 			:= \"roboto_10x18.h\"
-
-# Philz
-TARGET_SCREEN_HEIGHT				:= 800
-TARGET_SCREEN_WIDTH				:= 480
